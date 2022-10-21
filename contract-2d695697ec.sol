@@ -17,7 +17,7 @@ contract Alchemy is ERC721, ERC721Enumerable, ERC721URIStorage /**Ownable**/ {
     Counters.Counter private _tokenIdCounter;
     uint256 MAX_SUPPLY = 10000;
 
-    constructor() ERC721("Alchemy", "ALCH") {}
+    constructor() ERC721("ErfanNFT", "ENFT") {}
 
     function safeMint(address to, string memory uri) public /**onlyOwner**/ {
         /** Everyone can mint
