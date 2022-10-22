@@ -1,0 +1,1 @@
+The smart contract deployed on test net: https://goerli.etherscan.io/tx/0xd8434318e5f1e17ea46e657112bc80ffc5d294d37c073c0e74b485956273d173
